@@ -1,11 +1,11 @@
 # python-machine-learning
 Machine Learning Projects based on Coursera Courses implemented in Python
 
-Prerequisites / Recommended Software
+## Prerequisites / Recommended Software
 
 Jupyter Notebook Environment
 
-About Jupyter
+## About Jupyter
 
 To install Jupyter Notebook
 
@@ -18,10 +18,11 @@ http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html
 What is Jupyter Notebook?
 
 http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html
-Meta
+
+## Meta
 
 Kane Chew – https://stackoverflow.com/users/8517062/kane-chew
 
 
-Acknowledgments
+## Acknowledgments
 Coursera 
